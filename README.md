@@ -6,7 +6,7 @@ Esse é um experimento que fiz utilizando o [roblox-ts](https://roblox-ts.com/do
 - [Iniciando o projeto](#inciciando-o-projeto)
 - [Exemplo de uso](#exemplo-de-uso)
     - [RemoteEvents](#remoteevents)
-    - [RemoteFunctions](#remotefunctions)
+    - [RemoteFunctions](#remotefunction)
 
 ## Inciciando o projeto
 - Clone este repositório
